@@ -1,0 +1,20 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "description": "Learn to code for free with interactive lessons and projects.",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "starredAt": "2025-01-15"
+  },
+  {
+    "name": "The Odin Project",
+    "description": "An open-source curriculum for learning web development.",
+    "url": "https://github.com/TheOdinProject/curriculum",
+    "starredAt": "2025-02-02"
+  },
+  {
+    "name": "Excalidraw",
+    "description": "A virtual whiteboard for sketching hand-drawn diagrams.",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "starredAt": "2025-03-10"
+  }
+]
